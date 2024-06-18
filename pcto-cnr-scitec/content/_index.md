@@ -41,7 +41,7 @@ sede in via Mario Bianco, 9
     link="pcto/introduzione-transaminasi"
   >}}
   {{< hextra/feature-card
-    title="Produzione ricombinante"
+    title="Produzione biotecnologica"
     subtitle="Screening, trasformazione, produzione, recupero, saggi di attività."
     link="pcto/produzione-ricombinante"
   >}}
