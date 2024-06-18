@@ -55,7 +55,7 @@ jobs:
           HUGO_ENVIRONMENT: production
           HUGO_ENV: production
         run: |
-          hugo \
+          cd pcto-cnr-scitec && hugo \
             --gc --minify \
             --baseURL "https://mrsinho.github.io/esperienza-cnr-scitec"          
       - name: Upload artifact
