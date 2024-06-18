@@ -1,5 +1,5 @@
 ---
-title  : "Il laboratorio di ricerca"  
+title  : "L'Istituto"  
 draft  :  false
 toc    :  true
 math   :  true
