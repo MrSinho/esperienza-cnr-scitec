@@ -33,7 +33,7 @@ Le colture trasformate vengono quindi sottoposte a trattamenti termici e analizz
 
 Il gene viene inserito in un vettore di espressione (un plasmide di sintesi) che contiene i geni necessari per la trascrizione e traduzione nel sistema ospite: il gene di interesse, ottenuto legando delle estremità coesive dopo l'attività degli enzimi di restrizione; dei geni regolatori, primo fra tutti l'operone lac; dei marcatori selettivi, ossia dei geni resistenza agli antibiotici, in questo caso specifico alla kanamicina e al cloramfenicolo. 
 
-Il plasmide viene quindi introdotto nel microrganismo per trasformazione, facilitando il processo aggiungendo in soluzione del cloruro di calcio (aumenta le dimensioni e il numero di pori sulla membrana plasmatica) e ricorrendo allo schock termico.
+Il plasmide viene quindi introdotto nel microrganismo per trasformazione, facilitando il processo aggiungendo in soluzione del cloruro di calcio (aumenta le dimensioni e il numero di pori sulla membrana plasmatica) e ricorrendo allo shock termico.
 
 {{< /tab >}}
 
@@ -57,6 +57,9 @@ Le cellule vengono quindi raccolte e lisate ricorrendo agli ultrasuoni per liber
 La proteina viene purificata per mezzo di diversi cicli di cromatografia di affinità grazie alla presenza di un'etichetta di poli-istidina (his-tag) sul gene: si tratta di una sequenza di amminoacidi aggiunta alla proteina di interesse durante il processo di clonaggio nel vettore di espressione. Comunemente, la sequenza consiste in 6-10 residui di istidina consecutivi, sebbene possano essere utilizzate varianti più lunghe o più corte a seconda dell'applicazione. La His-tag ha una forte affinità per le resine di nichel o cobalto, che funzionano come ligandi nella cromatografia di affinità.
 
 Per valutare la concentrazione proteica si ricorre a un saggio spettrofotometrico di Bradford, mentre la soluzione viene eventualmente concentrata (se dovesse risultare troppo diluita) con delle membrane da dialisi. 
+
+![](/media/dialisi.jpg)
+
 {{< /tab >}}
 
 
@@ -67,7 +70,7 @@ Quest'ultimo saggio spettrofotometrico consente di analizzare la cinetica enzima
 
 $$\ce{piruvato + metilbenzilammina ->[transaminasi ricombinante] alanina + acetofenone}$$
 
-L'analisi spettrofometrica ricorre alla lunghezza d'onda di massimo assorbimento dell'acetofenone, pari a 295 nm. A partire dal valore di assorbanza viene quindi calcolata l'attività enzimatica specifica, espressa in Unità Internazionali (UI) per unità di volume.
+L'analisi spettrofotometrica ricorre alla lunghezza d'onda di massimo assorbimento dell'acetofenone, pari a 295 nm. A partire dal valore di assorbanza viene quindi calcolata l'attività enzimatica specifica, espressa in Unità Internazionali (UI) per unità di volume.
 
 $$
 \text{Attività enzimatica specifica} = \cfrac{\overline{\Delta A}}{\Delta t}\ \cdot\ \cfrac{V_{soluzione}}{\epsilon\ V_{enzima}}
